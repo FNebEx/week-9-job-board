@@ -1,6 +1,6 @@
 function Index() {
   return (
-    <h1>Hello there!</h1>
+    <h1 className="text-2xl font-extrabold">Hello there!</h1>
   );
 }
 
